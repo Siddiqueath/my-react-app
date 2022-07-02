@@ -14,6 +14,10 @@ export default function App() {
     {
       name: 'chris',
       pic: 'https://images.pexels.com/photos/356147/pexels-photo-356147.jpeg?auto=compress&cs=tinysrgb&w=600'
+    },
+    {
+      name: 'joe',
+      pic: 'https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&w=600'   
     }
   ];
   return (
