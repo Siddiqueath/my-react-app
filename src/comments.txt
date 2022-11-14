@@ -1,0 +1,4 @@
+1. When state is declared -- "what is stored" state is stored
+2. When normal varible is declared 
+    a. when conditional styling -- conditional styling for "what" +(optional) based on "what"
+    b. when conditiona rendering -- describe (use changes, clicked, when called)

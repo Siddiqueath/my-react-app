@@ -1,0 +1,66 @@
+[
+  {
+    "id": "101",
+    "title": "Joker",
+    "image": "https://c4.wallpaperflare.com/wallpaper/675/275/718/joker-2019-movie-joker-joaquin-phoenix-actor-men-hd-wallpaper-preview.jpg",
+    "rating": 8.1,
+    "trailer": "https://youtube.com/embed/zAGVQLHvwOY",
+    "descript": "Arthur Fleck, a party clown, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of crime and chaos."
+  },
+  {
+    "id": "102",
+    "title": "Master",
+    "image": "https://wallpapercave.com/wp/wp6669874.jpg",
+    "rating": 7.2,
+    "trailer": "https://youtube.com/embed/UTiXQcrLlv4",
+    "descript": "An alcoholic professor is enrolled to teach at a juvenile facility, unbeknownst to him. He soon clashes with a ruthless gangster, who uses the children as scapegoats for his crimes."
+  },
+  {
+    "id": "103",
+    "title": "Avengers: Endgame",
+    "image": "https://c4.wallpaperflare.com/wallpaper/361/823/829/avengers-endgame-iron-man-robert-downey-jr-captain-america-chris-evans-hd-wallpaper-preview.jpg",
+    "rating": 8.6,
+    "trailer": "https://youtube.com/embed/TcMBFSGVi1c",
+    "descript": "After Thanos, an intergalactic warlord, disintegrates half of the universe, the Avengers must reunite and assemble again to reinvigorate their trounced allies and restore balance."
+  },
+  {
+    "id": "104",
+    "title": "Teddy",
+    "image": "https://wallpapercave.com/wp/wp8751605.jpg",
+    "rating": 8,
+    "trailer": "https://youtube.com/embed/JjMM0W4NDAk",
+    "descript": "Srividya, a young woman, is put in a coma by corrupt doctors. However, her spirit enters a teddy bear and seeks out a lonely man named Shiva to uncover medical crimes."
+  },
+  {
+    "id": "105",
+    "title": "Inception",
+    "image": "https://c4.wallpaperflare.com/wallpaper/764/590/391/inception-leonardo-dicaprio-movie-posters-2400x3500-entertainment-movies-hd-art-wallpaper-preview.jpg",
+    "rating": 8.8,
+    "trailer": "https://youtube.com/embed/YoHD9XEInc0",
+    "descript": "Cobb steals information from his targets by entering their dreams. Saito offers to wipe clean Cobb's criminal history as payment for performing an inception on his sick competitor's son."
+  },
+  {
+    "id": "106",
+    "title": "Bahubali",
+    "image": "https://wallpapercave.com/dwp1x/wp1851897.jpg",
+    "rating": 7.5,
+    "trailer": "https://youtube.com/embed/64KCdvkgk2M",
+    "descript": "In the kingdom of Mahishmati, Shivudu falls in love with a young warrior woman. While trying to woo her, he learns about the conflict-ridden past of his family and his true legacy."
+  },
+  {
+    "id": "107",
+    "title": "Jai Bhim",
+    "image": "https://wallpapercave.com/dwp1x/wp10188321.jpg",
+    "rating": 7,
+    "trailer": "https://www.youtube.com/embed/Gc6dEDnL8JA",
+    "descript": "A brave activist-lawyer fights for justice when a poor tribal man, who gets falsely accused of robbery, goes missing from the police custody."
+  },
+  {
+    "id": "108",
+    "title": "Star Wars",
+    "image": "https://c4.wallpaperflare.com/wallpaper/153/860/948/movie-poster-star-wars-star-wars-the-rise-of-skywalker-2019-year-movies-hd-wallpaper-preview.jpg",
+    "rating": 7.4,
+    "trailer": "https://www.youtube.com/embed/8Qn_spdM5Zg",
+    "descript": "The revival of Emperor Palpatine resurrects the battle between the Resistance and the First Order while the Jedi's legendary conflict with the Sith Lord comes to a head."
+  }
+]

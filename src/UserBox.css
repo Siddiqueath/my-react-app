@@ -1,0 +1,24 @@
+.user-box {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.user-grid {
+  padding: 2rem;
+}
+
+.prof-pic {
+  height: 250px;
+  width: 250px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.btn-like,
+.btn-dislike {
+  font-size: 1rem;
+}
+
+.btn-like {
+  margin-right: 2rem;
+}

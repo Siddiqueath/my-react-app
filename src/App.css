@@ -1,19 +1,14 @@
-.App{
-  font-family: sans-serif;
-  text-align: center;
+.not-found {
+    width: 100%;
+    object-fit: contain;
+    max-height: 700px;
 }
-.user-grid{
-  padding: 2rem;
+.routes {
+    padding: 24px 12px;
 }
-.prof-pic{
-  height: 250px;
-  width: 250px;
-  object-fit: cover;
-  border-radius: 50%;
-}
-.btn-like, .btn-dislike{
-  font-size: 1.5rem;
-}
-.btn-like{
-  margin-right: 2rem;
+
+input, button {
+    display: block;
+    padding: 10px;
+    margin: 10px;
 }

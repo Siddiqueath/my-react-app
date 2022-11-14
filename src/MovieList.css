@@ -1,0 +1,45 @@
+body{
+  font-family: Arial; 
+} 
+.main-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: space-evenly;
+  background-color: white;
+  /* margin-top: 20px; */
+}
+.movie-container{
+  width: 340px;
+  margin-bottom: 30px;
+}
+.movie-container > img{
+  width: 340px;
+  height: 500px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+.movie-specs{
+  display: flex;
+  justify-content: space-between;
+  color:rgb(242, 112, 6);
+  font-weight: bold;
+}
+.movie-specs  button {
+  margin-left: 10px;
+}
+.description{
+  display: block;
+  font-family: roboto;
+  font-weight: 300;
+  text-align: justify;
+  margin-top: 0px;
+  padding-left: 4px;
+  color: black;
+}  
+
+.add-movie-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
